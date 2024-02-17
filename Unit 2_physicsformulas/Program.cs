@@ -31,6 +31,10 @@ namespace Unit_2_physicsformulas
 			{
 				Console.WriteLine("A value was added incorrectly");
 			}
+			Console.ReadKey();
+
 		}
+		
 	}
 }
+
